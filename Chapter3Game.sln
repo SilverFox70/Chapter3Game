@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{330C2926-8AB2-66E9-FE6F-BA419E01D0A3}") = "Chapter3Game", "Assembly-CSharp.csproj", "{480A27AF-CE98-8D04-D482-2B074CBA7B1F}"
 EndProject
-Project("{330C2926-8AB2-66E9-FE6F-BA419E01D0A3}") = "Chapter3Game", "Assembly-UnityScript-firstpass.unityproj", "{C5ACBC8D-6E97-AF85-40E6-A3EDBE386932}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{480A27AF-CE98-8D04-D482-2B074CBA7B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480A27AF-CE98-8D04-D482-2B074CBA7B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480A27AF-CE98-8D04-D482-2B074CBA7B1F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C5ACBC8D-6E97-AF85-40E6-A3EDBE386932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5ACBC8D-6E97-AF85-40E6-A3EDBE386932}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5ACBC8D-6E97-AF85-40E6-A3EDBE386932}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5ACBC8D-6E97-AF85-40E6-A3EDBE386932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,5 +35,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
