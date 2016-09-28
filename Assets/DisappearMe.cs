@@ -5,7 +5,7 @@ public class DisappearMe : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		renderer.enabled = true;
+		GetComponent<Renderer>().enabled = true;
 	
 	}
 	
